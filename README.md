@@ -1,6 +1,6 @@
 <img src="https://github.com/LeandroGazoli/LeandroGazoli/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Leandro">
 
-<h3> &nbsp;Sobre mim </h3> ![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+<h3> &nbsp;Sobre mim </h3> <div>![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)</div>
 
 <p align="left"> 
  Olá meu nome é Leandro, sou desenvolvedor <strong>Back-End.</strong><br> Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
