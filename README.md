@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=LeandroGazoli&color=006bed)
+
 <img src="https://github.com/LeandroGazoli/LeandroGazoli/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Leandro">
 
 <h3> &nbsp;Sobre mim </h3> 
@@ -44,6 +44,8 @@
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511963265033"/></a>
 
+
+![](https://komarev.com/ghpvc/?username=LeandroGazoli&color=006bed)
   <a href="#" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/leandroxgazoli/"/></a>
 
