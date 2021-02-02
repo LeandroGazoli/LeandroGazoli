@@ -1,6 +1,6 @@
 <img src="https://github.com/LeandroGazoli/LeandroGazoli/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Leandro">
 
-<h3> &nbsp;Sobre mim </h3> <div>![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)</div>
+<h3> &nbsp;Sobre mim </h3>
 
 <p align="left"> 
  Olá meu nome é Leandro, sou desenvolvedor <strong>Back-End.</strong><br> Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
@@ -49,3 +49,4 @@
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lelo_silsa/"/></a>
 </p>  
+![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
