@@ -11,7 +11,7 @@
 - 💼 &nbsp; Trabalhando como **Analista de Sistemas Junior** na <a href="http://www.empresasmaggi.com.br/">Empresas Maggi</a>
 - 🌱 &nbsp; Aprendendo e me especializando em linguagens web voltadas ao Back-End tais como **Angular, PHP, LARAVEL, etc.**.
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=LeandroGazoli&color=f8efd4&style=for-the-badge&logo=GitHub"> | ![](https://komarev.com/ghpvc/?username=LeandroGazoli&color=006bed)
+<img src="https://img.shields.io/static/v1?label=Overview&message=LeandroGazoli&color=f8efd4&style=for-the-badge&logo=GitHub"> ![](https://komarev.com/ghpvc/?username=LeandroGazoli&color=006bed)
 
 <p align="left">
   🧑‍🚀 Linguagens Front-End: <strong>HTML5, CSS, BOOTSTRAP 4, JavaScript</strong>
