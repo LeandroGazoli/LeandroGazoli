@@ -1,5 +1,14 @@
 <img src="https://github.com/LeandroGazoli/LeandroGazoli/blob/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Leandro">
 
+![](https://komarev.com/ghpvc/?username=LeandroGazoli&color=006bed)
+
+<h3> :woman: &nbsp;Sobre mim </h3>
+
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Formado em **Analista de sistemas** no **UNINOVE São Roque**.
+- 💼 &nbsp; Trabalhando como **Analista de Sistemas Junior** na <a href="http://www.empresasmaggi.com.br/">Empresas Maggi</a>
+- 🌱 &nbsp; Aprendendo e me especializando em linguagens web voltadas ao Back-End tais como **Angular, PHP, LARAVEL, etc.**.
+
 <img src="https://img.shields.io/static/v1?label=Overview&message=LeandroGazoli&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p align="left"> 
