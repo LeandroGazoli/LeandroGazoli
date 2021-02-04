@@ -9,10 +9,10 @@
  Olá meu nome é Leandro, sou desenvolvedor <strong>Back-End.</strong><br> Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
 </p>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Formado em **Analista de sistemas** na **UNINOVE São Roque**.
-- 💼 &nbsp; Trabalhando como **Analista de Sistemas Junior** na <a href="http://www.empresasmaggi.com.br/">Empresas Maggi</a>
-- 🌱 &nbsp; Aprendendo e me especializando em linguagens web voltadas ao Back-End tais como **Angular, PHP, LARAVEL, etc.**.
+🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+🎓 &nbsp; Formado em **Analista de sistemas** na **UNINOVE São Roque**.
+💼 &nbsp; Trabalhando como **Analista de Sistemas Junior** na <a href="http://www.empresasmaggi.com.br/">Empresas Maggi</a>
+🌱 &nbsp; Aprendendo e me especializando em linguagens web voltadas ao Back-End tais como **Angular, PHP, LARAVEL, etc.**.
 
 
 
