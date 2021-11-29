@@ -34,6 +34,12 @@
   💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
 </p>
 
+<div style="margin: 1rem;  justify-content: center;">
+  <a href="https://github.com/LeandroGazoli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroGazoli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroGazoli&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <p align="left">
   <a href="malito:leandro.gazoli@outlook.com" alt="Email">
   <img src="https://img.shields.io/badge/-Email-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=leandro.gazoli@outlook.com" /></a>
