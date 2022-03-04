@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  🌐    Linguagens Back-End: <strong>PHP 7.0+, MySql, SQL SERVER, MariaDB, PL SQL, NGINX</strong>
+  🌐    Linguagens Back-End: <strong>PHP 7.0+, LARAVEL, MySql, SQL SERVER, MariaDB, PL SQL, NGINX</strong>
 </p>
 
 <p align="left">
@@ -28,7 +28,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em **Analista de sistemas** na **UNINOVE São Roque**.
 - 💼 &nbsp; Trabalhando como **Analista de Sistemas/ Programador Full Stack** na <a href="http://www.empresasmaggi.com.br/">Empresas Maggi</a>
-- 🌱 &nbsp; Aprendendo e me especializando em linguagens web voltadas ao Back-End tais como **Angular, PHP, LARAVEL, etc.**.
+- 🌱 &nbsp; Aprendendo e me especializando em linguagens web voltadas ao Back-End tais como **Angular, VUEJS, REACT, NodeJs etc.**.
 
 <p align="left">
   💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
