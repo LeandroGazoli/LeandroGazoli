@@ -10,25 +10,25 @@
 </p>
 
 <p align="left">
-  🧑‍🚀 Linguagens Front-End: <strong>HTML5, CSS, BOOTSTRAP 5, JavaScript, JQuery,  JSON, XML, ADOBE XD, PHOTOSHOP</strong>
+  🧑‍🚀 Front-End: <strong>Vue.js, React, Angular Bootstrap, JS, HTML5, CSS3</strong>
 </p>
 
 <p align="left">
-  🌐    Linguagens Back-End: <strong>PHP 7.0+, LARAVEL, MySql, SQL SERVER, MariaDB, PL SQL, NGINX</strong>
+  🌐   Back-End: <strong>PHP 8.x, Laravel, Node.js, MySql, SQL Server, PL/SQL, MariaDB, NGINX</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>PhotoShop, APACHE, NGINX, GITHUB, ADOBE XD, Sublime Text, VSCode</strong>
+  💼 Ferramentas: <strong>Apache, NGINX, GitHub, Adobe</strong>
 </p>
 
-<p align="left">
+<!-- <p align="left">
   🧑‍🚀 Habilidades: <strong>AutoCad, Sony Vegas, Windows, Linux</strong>
-</p>
+</p> -->
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Desenvolvendo soluções de softwares e inovações.
 - 🎓 &nbsp; Formado em **Analista de sistemas** na **UNINOVE São Roque**.
-- 💼 &nbsp; Trabalhando como **Analista de Sistemas/ Programador Full Stack** na <a href="http://www.empresasmaggi.com.br/">Empresas Maggi</a>
-- 🌱 &nbsp; Aprendendo e me especializando em linguagens web voltadas ao Back-End tais como **Angular, VUEJS, REACT, NodeJs etc.**.
+- 💼 &nbsp; Trabalhando como **Engenheiro de Software / Developer Full Stack** na <a href="http://www.empresasmaggi.com.br/">Empresas Maggi</a>
+- 🌱 &nbsp; Especializando em: **Angular, VUEJS, REACT, NodeJs etc.**.
 
 <p align="left">
   💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
@@ -44,7 +44,7 @@
   <a href="malito:leandro.gazoli@outlook.com" alt="Email">
   <img src="https://img.shields.io/badge/-Email-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=leandro.gazoli@outlook.com" /></a>
 
-  <a href="https://www.linkedin.com/in/leandro-gazoli/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/LeandroGazoli" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-gazoli/" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=5511963265033" alt="WhatsApp">
