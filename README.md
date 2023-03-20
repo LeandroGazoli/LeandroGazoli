@@ -10,11 +10,11 @@
 </p>
 
 <p align="left">
-  🧑‍🚀 Front-End: <strong>Vue.js, React, Angular Bootstrap, JS, HTML5, CSS3</strong>
+  🧑‍🚀 Front-End: <strong>React.js, React-Native, SASS, Laravel, JQuery, Bootstrap, JS, HTML5, CSS3</strong>
 </p>
 
 <p align="left">
-  🌐   Back-End: <strong>PHP 8.x, Laravel, Node.js, MySql, SQL Server, PL/SQL, MariaDB, NGINX</strong>
+  🌐   Back-End: <strong>PHP, Laravel, Node.js, MySql, SQL Server, PL/SQL, PostgreSQL, NGINX</strong>
 </p>
 
 <p align="left">
@@ -28,7 +28,7 @@
 - 🤔 &nbsp; Desenvolvendo soluções de softwares e inovações.
 - 🎓 &nbsp; Formado em **Analista de sistemas** na **UNINOVE São Roque**.
 - 💼 &nbsp; Trabalhando como **Engenheiro de Software / Developer Full Stack** na <a href="http://www.empresasmaggi.com.br/">Empresas Maggi</a>
-- 🌱 &nbsp; Especializando em: **Angular, VUEJS, REACT, NodeJs etc.**.
+- 🌱 &nbsp; Especializando em: **React.js, NodeJs etc.**.
 
 <p align="left">
   💌 Se você deseja realizar um projeto comigo (ou bater papo), não hesite em me enviar uma mensagem: ⤵️
